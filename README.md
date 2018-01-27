@@ -1,4 +1,4 @@
-# 微豆 Vdo
+# 小豆瓣 - XDB
 
 一个使用 Vue.js 与 Material Design 重构 [豆瓣](http://www.douban.com) 的项目。  
 
